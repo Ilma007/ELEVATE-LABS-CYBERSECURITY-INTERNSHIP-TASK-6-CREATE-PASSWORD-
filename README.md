@@ -31,7 +31,7 @@ Understand what makes a password strong, test different passwords using an onlin
 | 1      | `family@123`        | 10     | Lowercase + Symbol + Digits          | 42% (Good)         | \~42 mins                     | Very High              |
 | 2      | `Family2028!`       | 11     | Uppercase + Lowercase + Digits + Sym | 100% (Very Strong) | Centuries                     | Medium-High            |
 | 3      | `love`              | 4      | Lowercase only                       | 6% (Very Weak)     | Instant (<1 sec)              | Very High              |
-| 4      | `life@in`           | 7      | Lowercase + Symbol                   | 60% (Strong)       | Few Hours                     | High                   |
+| 4      | `l!f3_in`           | 7      | Lowercase + Symbol                   | 60% (Strong)       | Few Hours                     | High                   |
 | 5      | `happy@e`           | 7      | Lowercase + Symbol                   | 34% (Weak)         | Few Hours                     | High                   |
 | 6      | `Tog3ther@forever#` | 18     | Uppercase + Lowercase + Digits + Sym | 100% (Very Strong) | Trillions of years            | Low                    |
 
@@ -61,7 +61,7 @@ Brute force: Seconds
 
 Dictionary attack: Instant crack (bahut common word hai)
 
-4. life@in (60%, strong)
+4. l!f3_in (60%, strong)
 Length: 7 characters
 
 Complexity: lowercase + symbol
